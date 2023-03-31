@@ -8,5 +8,19 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "morgan": "^1.10.0"
-  }
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Ecomm",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "E-Commerce"
+  },
+  "author": "",
+  "license": "ISC"
 }
